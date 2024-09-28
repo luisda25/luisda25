@@ -29,9 +29,3 @@
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco"/>
 </p>
-
-
-###
-<div align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=luisda25&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
