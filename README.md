@@ -1,7 +1,7 @@
 # Hello👋! My name is Luis Daniel.
 - Passionate programmer who loves music.
 - Software Engineer student at Tecnológico de Monterrey.
-- Research assistant: Brain Signal Analysis.
+- Research assistant: Brain and Heart Signal Analysis.
 
 # 
 <div align="center">
