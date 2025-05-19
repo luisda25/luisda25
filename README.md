@@ -62,9 +62,6 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" alt="linux" width="40" height="40"/> 
     </a>
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-    </a>
     <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" alt="matlab" width="40" height="40"/> 
     </a> 
