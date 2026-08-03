@@ -3,13 +3,7 @@
 - Software Engineer graduate from Tecnológico de Monterrey.
 - Research assistant: Brain and Heart Signal Analysis.
 
-# 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=luisda25&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" style="display:inline-block; width: 350px; margin-right: 10px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisda25&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="display:inline-block; width: 276px;" />
-</div>
 
-# 
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
